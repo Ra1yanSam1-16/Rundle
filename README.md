@@ -23,5 +23,5 @@ If the player wins, a congratulatory message and image are displayed. If they lo
 - Random Number Generation: Used to select random words from a dictionary file.
 ## How to Play
 - Clone this repository.
-- Run the main MATLAB script.
+- Run the `Project.m` 
 - Follow the prompts, guess the word, and enjoy the game!
